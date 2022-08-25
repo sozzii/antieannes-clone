@@ -375,6 +375,7 @@
         text-align: center;
         font-size: 13px;
         transition: .5s;
+        cursor:pointer;
     }
 
     .sec1 .top.active{
