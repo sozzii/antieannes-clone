@@ -82,6 +82,7 @@
         transition: all 1s ease;
         background-color: #ffb500;
         transform: rotate(180deg);
+        cursor:pointer;
     }
 
     .bmenu a.active{
